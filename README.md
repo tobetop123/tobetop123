@@ -1,6 +1,6 @@
 # 이동하 | DONGHA LEE
 ### Kongju National Univ
-*Computer Engineering*
+*Computer ChoDang*
 *(2015.03. - 2021.02.)*
 #
 <a href="https://ko.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" /></a> <a href="https://ko.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white" /></a> <a href="https://ko.wikipedia.org/wiki/Javascript/"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=Javascript&amp;logoColor=black" /></a>
