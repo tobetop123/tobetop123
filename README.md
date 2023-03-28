@@ -6,9 +6,9 @@
 #
 <table>
 <td>
-![Yeonu's Github stats](https://github-readme-stats.vercel.app/api?username=tobetop123&show_icons=true)
+<!--![Yeonu's Github stats](https://github-readme-stats.vercel.app/api?username=tobetop123&show_icons=true)-->
 </td>
 <td>
-//[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldusdn8060)](https://solved.ac/dldusdn8060/)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldusdn8060)](https://solved.ac/dldusdn8060/)-->
 </td>
 <table>
