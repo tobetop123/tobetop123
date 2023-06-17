@@ -1,5 +1,9 @@
 # 이동하 | DONGHA LEE
 <!--### Kongju National Univ-->
+
+### Multicampus KDT JAVA Back-End Developer Camp 8th
+*(2023.01. - 2023.05.)*
+
 # Skills
 
 <div align="left">
