@@ -12,3 +12,6 @@
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldusdn8060)](https://solved.ac/dldusdn8060/)-->
 </td>
 <table>
+
+![DongHa's Github stats](https://github-readme-stats.vercel.app/api?username=DongHaLee&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongHaLee)](https://github.com/DongHaLee/github-readme-stats)
