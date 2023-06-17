@@ -6,9 +6,9 @@
 #
 <table>
 <td>  
-![DongHa's Github stats](https://github-readme-stats.vercel.app/api?username=mangs2e&show_icons=true&theme=radical)  
+![DongHa's Github stats](https://github-readme-stats.vercel.app/api?username=tobetop123&show_icons=true&theme=radical)  
 </td>  
 <td>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mangs2e)](https://solved.ac/mangs2e)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tobetop123)](https://solved.ac/tobetop)  
 </td>  
 <table>
