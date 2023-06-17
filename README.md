@@ -14,7 +14,7 @@
   
 <td>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tobetop123)](https://solved.ac/tobetop) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tobetop)](https://solved.ac/tobetop) 
   
 </td>
   
